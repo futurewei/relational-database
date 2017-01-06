@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.berkeley.cs186.database.query.OptimalQueryPlanTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.991 sec - in edu.berkeley.cs186.database.query.OptimalQueryPlanTest
